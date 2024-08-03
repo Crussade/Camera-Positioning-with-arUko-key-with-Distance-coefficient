@@ -1,5 +1,8 @@
 # Camera Calibration with ArUco Markers
 
+https://www.youtube.com/watch?v=Xo1Q3AOIi9k
+
+
 This project provides a script for calibrating multiple cameras using ArUco markers. The script includes visual aids to assist with camera alignment and saves calibration data for each camera.
 
 ## Features
